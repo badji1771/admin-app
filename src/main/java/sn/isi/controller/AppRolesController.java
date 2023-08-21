@@ -1,12 +1,13 @@
 package sn.isi.controller;
 
+import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import sn.isi.dto.AppRoles;
 import sn.isi.service.AppRolesService;
 
-import javax.validation.Valid;
+
 import java.util.List;
 
 @RestController

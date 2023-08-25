@@ -15,7 +15,7 @@ Prérequis pour démarrer le projet  :
 * Go
 
 ```bash 
-git clone https://github.com/
+git clone https://github.com/badji1771/admin-app.git
 # Executer la commande docker-compose 
 docker-compose up -d
 # Démarrer le projet pour les tests 

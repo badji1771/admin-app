@@ -2481,3 +2481,1166 @@
   "threadPriority" : 5,
   "service" : "admin-app"
 }
+{
+  "instant" : {
+    "epochSecond" : 1692656731,
+    "nanoOfSecond" : 650388800
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "Starting AdminAppApplication using Java 18.0.1.1 with PID 2756 (C:\\Users\\HP\\Documents\\workspace\\wsp_spring_boot_projet1\\admin-app\\target\\classes started by HP in C:\\Users\\HP\\Documents\\workspace\\wsp_spring_boot_projet1\\admin-app)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656731,
+    "nanoOfSecond" : 541081100
+  },
+  "thread" : "background-preinit",
+  "level" : "INFO",
+  "loggerName" : "org.hibernate.validator.internal.util.Version",
+  "message" : "HV000001: Hibernate Validator 8.0.1.Final",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.hibernate.validator.internal.util.logging.Log_$logger",
+  "threadId" : 20,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656731,
+    "nanoOfSecond" : 784948900
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "sn.isi.AdminAppApplication",
+  "message" : "No active profile set, falling back to 1 default profile: \"default\"",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656731,
+    "nanoOfSecond" : 922699200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656731,
+    "nanoOfSecond" : 923698000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor",
+  "message" : "For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656732,
+    "nanoOfSecond" : 28072700
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.lifecycle.DockerComposeLifecycleManager",
+  "message" : "Using Docker Compose file 'C:\\Users\\HP\\Documents\\workspace\\wsp_spring_boot_projet1\\admin-app\\docker-compose.yml'",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656734,
+    "nanoOfSecond" : 2313400
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Network admin-app_default  Creating",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656734,
+    "nanoOfSecond" : 783132200
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Network admin-app_default  Created",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656734,
+    "nanoOfSecond" : 794814200
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_mysql-admin-db  Creating",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656734,
+    "nanoOfSecond" : 932384800
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_mysql-admin-db  Created",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656734,
+    "nanoOfSecond" : 934448900
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_phpmyadmin-admindb  Creating",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656735,
+    "nanoOfSecond" : 27487000
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_phpmyadmin-admindb  Created",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656735,
+    "nanoOfSecond" : 33921400
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_mysql-admin-db  Starting",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656736,
+    "nanoOfSecond" : 370462200
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_mysql-admin-db  Started",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656736,
+    "nanoOfSecond" : 372211000
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_phpmyadmin-admindb  Starting",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656737,
+    "nanoOfSecond" : 585747400
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_phpmyadmin-admindb  Started",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656737,
+    "nanoOfSecond" : 586514000
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_phpmyadmin-admindb  Waiting",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656737,
+    "nanoOfSecond" : 587019700
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_mysql-admin-db  Waiting",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656738,
+    "nanoOfSecond" : 108738000
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_phpmyadmin-admindb  Healthy",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656767,
+    "nanoOfSecond" : 127091700
+  },
+  "thread" : "OutputReader-stderr",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.docker.compose.core.DockerCli",
+  "message" : " Container container_mysql-admin-db  Healthy",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 32,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656769,
+    "nanoOfSecond" : 97709200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Bootstrapping Spring Data JPA repositories in DEFAULT mode.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656769,
+    "nanoOfSecond" : 191177000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.data.repository.config.RepositoryConfigurationDelegate",
+  "message" : "Finished Spring Data repository scanning in 82 ms. Found 3 JPA repository interfaces.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 588559400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.embedded.tomcat.TomcatWebServer",
+  "message" : "Tomcat initialized with port(s): 8081 (http)",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 610512500
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.coyote.http11.Http11NioProtocol",
+  "message" : "Initializing ProtocolHandler [\"http-nio-8081\"]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 618400200
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Starting service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 619701400
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardEngine",
+  "message" : "Starting Servlet engine: [Apache Tomcat/10.1.11]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 764285300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]",
+  "message" : "Initializing Spring embedded WebApplicationContext",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 769289300
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+  "message" : "Root WebApplicationContext: initialization completed in 2613 ms",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 955272100
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "com.zaxxer.hikari.HikariConfig",
+  "message" : "Failed to load driver class com.mysql.cj.jdbc.Driver from HikariConfig class classloader jdk.internal.loader.ClassLoaders$AppClassLoader@4b1210ee",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.slf4j.Log4jLogger",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 958272400
+  },
+  "thread" : "restartedMain",
+  "level" : "WARN",
+  "loggerName" : "org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext",
+  "message" : "Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Unsatisfied dependency expressed through method 'dataSourceScriptDatabaseInitializer' parameter 0: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 963499100
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.apache.catalina.core.StandardService",
+  "message" : "Stopping service [Tomcat]",
+  "endOfBatch" : false,
+  "loggerFqcn" : "java.util.logging.Logger",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656770,
+    "nanoOfSecond" : 988923000
+  },
+  "thread" : "restartedMain",
+  "level" : "INFO",
+  "loggerName" : "org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger",
+  "message" : "\r\n\r\nError starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}
+{
+  "instant" : {
+    "epochSecond" : 1692656771,
+    "nanoOfSecond" : 22897600
+  },
+  "thread" : "restartedMain",
+  "level" : "ERROR",
+  "loggerName" : "org.springframework.boot.SpringApplication",
+  "message" : "Application run failed",
+  "thrown" : {
+    "commonElementCount" : 0,
+    "localizedMessage" : "Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Unsatisfied dependency expressed through method 'dataSourceScriptDatabaseInitializer' parameter 0: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+    "message" : "Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Unsatisfied dependency expressed through method 'dataSourceScriptDatabaseInitializer' parameter 0: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+    "name" : "org.springframework.beans.factory.UnsatisfiedDependencyException",
+    "cause" : {
+      "commonElementCount" : 24,
+      "localizedMessage" : "Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+      "message" : "Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+      "name" : "org.springframework.beans.factory.BeanCreationException",
+      "cause" : {
+        "commonElementCount" : 24,
+        "localizedMessage" : "Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+        "message" : "Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+        "name" : "org.springframework.beans.BeanInstantiationException",
+        "cause" : {
+          "commonElementCount" : 24,
+          "localizedMessage" : "Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+          "message" : "Failed to load driver class com.mysql.cj.jdbc.Driver in either of HikariConfig class loader or Thread context classloader",
+          "name" : "java.lang.RuntimeException",
+          "extendedStackTrace" : [ {
+            "class" : "com.zaxxer.hikari.HikariConfig",
+            "method" : "setDriverClassName",
+            "file" : "HikariConfig.java",
+            "line" : 488,
+            "exact" : false,
+            "location" : "HikariCP-5.0.1.jar",
+            "version" : "?"
+          }, {
+            "class" : "org.springframework.boot.jdbc.DataSourceBuilder$MappedDataSourceProperty",
+            "method" : "set",
+            "file" : "DataSourceBuilder.java",
+            "line" : 479,
+            "exact" : false,
+            "location" : "spring-boot-3.1.2.jar",
+            "version" : "3.1.2"
+          }, {
+            "class" : "org.springframework.boot.jdbc.DataSourceBuilder$MappedDataSourceProperties",
+            "method" : "set",
+            "file" : "DataSourceBuilder.java",
+            "line" : 373,
+            "exact" : false,
+            "location" : "spring-boot-3.1.2.jar",
+            "version" : "3.1.2"
+          }, {
+            "class" : "org.springframework.boot.jdbc.DataSourceBuilder",
+            "method" : "build",
+            "file" : "DataSourceBuilder.java",
+            "line" : 183,
+            "exact" : false,
+            "location" : "spring-boot-3.1.2.jar",
+            "version" : "3.1.2"
+          }, {
+            "class" : "org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration",
+            "method" : "createDataSource",
+            "file" : "DataSourceConfiguration.java",
+            "line" : 59,
+            "exact" : false,
+            "location" : "spring-boot-autoconfigure-3.1.2.jar",
+            "version" : "3.1.2"
+          }, {
+            "class" : "org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari",
+            "method" : "dataSource",
+            "file" : "DataSourceConfiguration.java",
+            "line" : 117,
+            "exact" : false,
+            "location" : "spring-boot-autoconfigure-3.1.2.jar",
+            "version" : "3.1.2"
+          }, {
+            "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+            "method" : "invoke",
+            "file" : "DirectMethodHandleAccessor.java",
+            "line" : 104,
+            "exact" : false,
+            "location" : "?",
+            "version" : "?"
+          }, {
+            "class" : "java.lang.reflect.Method",
+            "method" : "invoke",
+            "file" : "Method.java",
+            "line" : 577,
+            "exact" : false,
+            "location" : "?",
+            "version" : "?"
+          }, {
+            "class" : "org.springframework.beans.factory.support.SimpleInstantiationStrategy",
+            "method" : "instantiate",
+            "file" : "SimpleInstantiationStrategy.java",
+            "line" : 139,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+            "method" : "instantiate",
+            "file" : "ConstructorResolver.java",
+            "line" : 655,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+            "method" : "instantiateUsingFactoryMethod",
+            "file" : "ConstructorResolver.java",
+            "line" : 647,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+            "method" : "instantiateUsingFactoryMethod",
+            "file" : "AbstractAutowireCapableBeanFactory.java",
+            "line" : 1332,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+            "method" : "createBeanInstance",
+            "file" : "AbstractAutowireCapableBeanFactory.java",
+            "line" : 1162,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+            "method" : "doCreateBean",
+            "file" : "AbstractAutowireCapableBeanFactory.java",
+            "line" : 560,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+            "method" : "createBean",
+            "file" : "AbstractAutowireCapableBeanFactory.java",
+            "line" : 520,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+            "method" : "lambda$doGetBean$0",
+            "file" : "AbstractBeanFactory.java",
+            "line" : 326,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+            "method" : "getSingleton",
+            "file" : "DefaultSingletonBeanRegistry.java",
+            "line" : 234,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+            "method" : "doGetBean",
+            "file" : "AbstractBeanFactory.java",
+            "line" : 324,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+            "method" : "getBean",
+            "file" : "AbstractBeanFactory.java",
+            "line" : 200,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.config.DependencyDescriptor",
+            "method" : "resolveCandidate",
+            "file" : "DependencyDescriptor.java",
+            "line" : 254,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+            "method" : "doResolveDependency",
+            "file" : "DefaultListableBeanFactory.java",
+            "line" : 1417,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+            "method" : "resolveDependency",
+            "file" : "DefaultListableBeanFactory.java",
+            "line" : 1337,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+            "method" : "resolveAutowiredArgument",
+            "file" : "ConstructorResolver.java",
+            "line" : 888,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          }, {
+            "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+            "method" : "createArgumentArray",
+            "file" : "ConstructorResolver.java",
+            "line" : 791,
+            "exact" : false,
+            "location" : "spring-beans-6.0.11.jar",
+            "version" : "6.0.11"
+          } ]
+        },
+        "extendedStackTrace" : [ {
+          "class" : "org.springframework.beans.factory.support.SimpleInstantiationStrategy",
+          "method" : "instantiate",
+          "file" : "SimpleInstantiationStrategy.java",
+          "line" : 171,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+          "method" : "instantiate",
+          "file" : "ConstructorResolver.java",
+          "line" : 655,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+          "method" : "instantiateUsingFactoryMethod",
+          "file" : "ConstructorResolver.java",
+          "line" : 647,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+          "method" : "instantiateUsingFactoryMethod",
+          "file" : "AbstractAutowireCapableBeanFactory.java",
+          "line" : 1332,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+          "method" : "createBeanInstance",
+          "file" : "AbstractAutowireCapableBeanFactory.java",
+          "line" : 1162,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+          "method" : "doCreateBean",
+          "file" : "AbstractAutowireCapableBeanFactory.java",
+          "line" : 560,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+          "method" : "createBean",
+          "file" : "AbstractAutowireCapableBeanFactory.java",
+          "line" : 520,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+          "method" : "lambda$doGetBean$0",
+          "file" : "AbstractBeanFactory.java",
+          "line" : 326,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+          "method" : "getSingleton",
+          "file" : "DefaultSingletonBeanRegistry.java",
+          "line" : 234,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+          "method" : "doGetBean",
+          "file" : "AbstractBeanFactory.java",
+          "line" : 324,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+          "method" : "getBean",
+          "file" : "AbstractBeanFactory.java",
+          "line" : 200,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.config.DependencyDescriptor",
+          "method" : "resolveCandidate",
+          "file" : "DependencyDescriptor.java",
+          "line" : 254,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+          "method" : "doResolveDependency",
+          "file" : "DefaultListableBeanFactory.java",
+          "line" : 1417,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+          "method" : "resolveDependency",
+          "file" : "DefaultListableBeanFactory.java",
+          "line" : 1337,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+          "method" : "resolveAutowiredArgument",
+          "file" : "ConstructorResolver.java",
+          "line" : 888,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        }, {
+          "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+          "method" : "createArgumentArray",
+          "file" : "ConstructorResolver.java",
+          "line" : 791,
+          "exact" : false,
+          "location" : "spring-beans-6.0.11.jar",
+          "version" : "6.0.11"
+        } ]
+      },
+      "extendedStackTrace" : [ {
+        "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+        "method" : "instantiate",
+        "file" : "ConstructorResolver.java",
+        "line" : 659,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+        "method" : "instantiateUsingFactoryMethod",
+        "file" : "ConstructorResolver.java",
+        "line" : 647,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "instantiateUsingFactoryMethod",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1332,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "createBeanInstance",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 1162,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "doCreateBean",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 560,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+        "method" : "createBean",
+        "file" : "AbstractAutowireCapableBeanFactory.java",
+        "line" : 520,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+        "method" : "lambda$doGetBean$0",
+        "file" : "AbstractBeanFactory.java",
+        "line" : 326,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+        "method" : "getSingleton",
+        "file" : "DefaultSingletonBeanRegistry.java",
+        "line" : 234,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+        "method" : "doGetBean",
+        "file" : "AbstractBeanFactory.java",
+        "line" : 324,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+        "method" : "getBean",
+        "file" : "AbstractBeanFactory.java",
+        "line" : 200,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.config.DependencyDescriptor",
+        "method" : "resolveCandidate",
+        "file" : "DependencyDescriptor.java",
+        "line" : 254,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+        "method" : "doResolveDependency",
+        "file" : "DefaultListableBeanFactory.java",
+        "line" : 1417,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.DefaultListableBeanFactory",
+        "method" : "resolveDependency",
+        "file" : "DefaultListableBeanFactory.java",
+        "line" : 1337,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+        "method" : "resolveAutowiredArgument",
+        "file" : "ConstructorResolver.java",
+        "line" : 888,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      }, {
+        "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+        "method" : "createArgumentArray",
+        "file" : "ConstructorResolver.java",
+        "line" : 791,
+        "exact" : false,
+        "location" : "spring-beans-6.0.11.jar",
+        "version" : "6.0.11"
+      } ]
+    },
+    "extendedStackTrace" : [ {
+      "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+      "method" : "createArgumentArray",
+      "file" : "ConstructorResolver.java",
+      "line" : 800,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.ConstructorResolver",
+      "method" : "instantiateUsingFactoryMethod",
+      "file" : "ConstructorResolver.java",
+      "line" : 550,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "instantiateUsingFactoryMethod",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 1332,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "createBeanInstance",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 1162,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "doCreateBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 560,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory",
+      "method" : "createBean",
+      "file" : "AbstractAutowireCapableBeanFactory.java",
+      "line" : 520,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "lambda$doGetBean$0",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 326,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.DefaultSingletonBeanRegistry",
+      "method" : "getSingleton",
+      "file" : "DefaultSingletonBeanRegistry.java",
+      "line" : 234,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "doGetBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 324,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "getBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 200,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "doGetBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 313,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.beans.factory.support.AbstractBeanFactory",
+      "method" : "getBean",
+      "file" : "AbstractBeanFactory.java",
+      "line" : 200,
+      "exact" : false,
+      "location" : "spring-beans-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "getBean",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 1155,
+      "exact" : false,
+      "location" : "spring-context-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "finishBeanFactoryInitialization",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 932,
+      "exact" : false,
+      "location" : "spring-context-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.context.support.AbstractApplicationContext",
+      "method" : "refresh",
+      "file" : "AbstractApplicationContext.java",
+      "line" : 608,
+      "exact" : false,
+      "location" : "spring-context-6.0.11.jar",
+      "version" : "6.0.11"
+    }, {
+      "class" : "org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext",
+      "method" : "refresh",
+      "file" : "ServletWebServerApplicationContext.java",
+      "line" : 146,
+      "exact" : false,
+      "location" : "spring-boot-3.1.2.jar",
+      "version" : "3.1.2"
+    }, {
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refresh",
+      "file" : "SpringApplication.java",
+      "line" : 734,
+      "exact" : true,
+      "location" : "spring-boot-3.1.2.jar",
+      "version" : "3.1.2"
+    }, {
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "refreshContext",
+      "file" : "SpringApplication.java",
+      "line" : 436,
+      "exact" : true,
+      "location" : "spring-boot-3.1.2.jar",
+      "version" : "3.1.2"
+    }, {
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 312,
+      "exact" : true,
+      "location" : "spring-boot-3.1.2.jar",
+      "version" : "3.1.2"
+    }, {
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1306,
+      "exact" : true,
+      "location" : "spring-boot-3.1.2.jar",
+      "version" : "3.1.2"
+    }, {
+      "class" : "org.springframework.boot.SpringApplication",
+      "method" : "run",
+      "file" : "SpringApplication.java",
+      "line" : 1295,
+      "exact" : true,
+      "location" : "spring-boot-3.1.2.jar",
+      "version" : "3.1.2"
+    }, {
+      "class" : "sn.isi.AdminAppApplication",
+      "method" : "main",
+      "file" : "AdminAppApplication.java",
+      "line" : 10,
+      "exact" : true,
+      "location" : "classes/",
+      "version" : "?"
+    }, {
+      "class" : "jdk.internal.reflect.DirectMethodHandleAccessor",
+      "method" : "invoke",
+      "file" : "DirectMethodHandleAccessor.java",
+      "line" : 104,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "java.lang.reflect.Method",
+      "method" : "invoke",
+      "file" : "Method.java",
+      "line" : 577,
+      "exact" : false,
+      "location" : "?",
+      "version" : "?"
+    }, {
+      "class" : "org.springframework.boot.devtools.restart.RestartLauncher",
+      "method" : "run",
+      "file" : "RestartLauncher.java",
+      "line" : 50,
+      "exact" : true,
+      "location" : "spring-boot-devtools-3.1.2.jar",
+      "version" : "3.1.2"
+    } ]
+  },
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.commons.logging.LogAdapter$Log4jLog",
+  "threadId" : 18,
+  "threadPriority" : 5,
+  "service" : "admin-app"
+}

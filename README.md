@@ -1,11 +1,11 @@
 ![work status](https://img.shields.io/badge/work-on%20progress-red.svg)
-![Ngor Seck](https://img.shields.io/badge/Ngor%20Seck-Java-green)
-![PHP](https://img.shields.io/badge/Ngor%20Seck-SpringBoot-yellowgreen)
+![Ngor Seck](https://img.shields.io/badge/Mamadou%20Badji-Java-green)
+![PHP](https://img.shields.io/badge/Mamadou%20Badji-SpringBoot-yellowgreen)
 
 ### REQUIREMENTS
 Prérequis pour démarrer le projet  :
 ```
-    Java 1.8 
+    Java 17 
     Docker 
     maven
 ```
@@ -15,7 +15,7 @@ Prérequis pour démarrer le projet  :
 * Go
 
 ```bash 
-git clone https://github.com/ngorseck/admin-app.git
+git clone https://github.com/badji1771/admin-app.git
 # Executer la commande docker-compose 
 docker-compose up -d
 # Démarrer le projet pour les tests 
@@ -36,5 +36,5 @@ Ce code va vous permettre de comprendre :
 ---
 Email
 ```
-:email:  ngorsecka@gmail.com
+:email:  mbadji1771@gmail.com
 

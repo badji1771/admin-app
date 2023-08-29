@@ -1,5 +1,6 @@
 package sn.isi.service;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
@@ -17,6 +18,7 @@ import java.util.stream.StreamSupport;
 
 @Service
 public class AppRolesService {
+
     private IAppRolesRepository iAppRolesRepository;
     private AppRolesMapper appRolesMapper;
     MessageSource messageSource;

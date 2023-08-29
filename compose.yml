@@ -2,17 +2,22 @@ version: '3.9'
 
 services:
   mysql-admin-db:
-    image: mysql:8.0
+    image: mysql
     container_name: container_mysql-admin-db
     environment:
       MYSQL_ROOT_PASSWORD: root
+      MYSQL_ALLOW_EMPTY_PASSWORD: 1
+      MYSQL_RANDOM_ROOT_PASSWORD: 1
       MYSQL_DATABASE: adminapp-db
-      MYSQL_USER: root
+      MYSQL_USER: user
       MYSQL_PASSWORD: root
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/MYSQL_DATABASE
+      SPRING_DATASOURCE_USER: user
+      SPRING_DATASOURCE_PASSWORD: root
     ports:
       - 3306:3306
-    volumes:
-      - C:/Users/reg_mbadji/Documents/mysql_data:/var/lib/mysql
+    # volumes:
+     # - C:/Users/reg_mbadji/Documents/mysql_data:/var/lib/mysql
     healthcheck:
       test: mysqladmin ping -h 127.0.0.1 -u $$MYSQL_USER --password=$$MYSQL_PASSWORD
 
@@ -21,7 +26,7 @@ services:
     container_name: container_phpmyadmin-admindb
     image: phpmyadmin/phpmyadmin:latest
     ports:
-      - 8085:80
+      - 8081:8081
     environment:
       MYSQL_ROOT_PASSWORD: root
       PMA_HOST: mysql-admin-db
